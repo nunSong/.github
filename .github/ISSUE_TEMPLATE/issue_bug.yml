@@ -1,0 +1,32 @@
+name: 🐛 Bug
+description: Bug 사항이 있을 때 사용하는 템플릿
+title: "[Bug]: Bug Title"
+labels: ["bug"]
+
+body:
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: 📄 문제 설명
+      description: 발생한 버그에 대한 자세한 내용을 작성해주세요.
+      placeholder: "ex: API 호출 시 500 에러 발생"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: ✅ 기대했던 동작
+      description: 정상적으로 작동했다면 어떻게 동작했어야 하는지 설명해주세요.
+      placeholder: "예: 업데이트 버튼을 클릭하면 프로필 정보가 저장되고 성공 메시지가 표시됩니다."
+    validations:
+      required: false
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: ✅ 실제 동작
+      description: 실제로 발생한 결과를 상세히 작성해주세요.
+      placeholder: "ex: 500 Internal Server Error"
+    validations:
+      required: false
