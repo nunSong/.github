@@ -8,4 +8,4 @@
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/JEcode-2002.png" width="160px"/>|<img src="https://github.com/jsy-00.png" width="160px"/>|<img src="https://github.com/rladusdn02.png" width="160px"/>|<img src="https://github.com/eunsudung2.png" width="160px"/>|
 |[김정은](https://github.com/JEcode-2002)|[진서영](https://github.com/jsy-00)|[김연우](https://github.com/rladusdn02)|[조은수](https://github.com/eunsudung2)|
-|개발|기획 PM|개발|사운드|
+|사운드 (+개발)|기획 PM|개발|사운드|
